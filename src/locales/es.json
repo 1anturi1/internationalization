@@ -1,0 +1,11 @@
+{
+	"ColorHead": "thead-light" ,
+	"PluralMillion": " millones",
+	"SingularMillion":" millón",
+	"Position": "Nombre del cargo",
+	"Company": "Empresa",
+	"Salary": "Salario",
+	"City": "Ciudad",
+	"PulibicationDate": "Fecha de publicación",
+	"Views": "No. Visitas"
+}

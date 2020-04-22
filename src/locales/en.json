@@ -1,0 +1,11 @@
+{
+	"ColorHead": "thead-dark" ,
+	"PluralMillion": " millions",
+	"SingularMillion":" million",
+	"Position": "Position",
+	"Company": "Company",
+	"Salary": "Salary",
+	"City": "City",
+	"PulibicationDate": "Pulibication Date",
+	"Views": "Number of visits"
+}
